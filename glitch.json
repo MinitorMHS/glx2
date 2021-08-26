@@ -1,0 +1,3 @@
+{
+	"start": "chmod 777 /app/build.sh && ./build.sh"
+}
