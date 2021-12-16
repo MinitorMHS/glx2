@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Script to send GET request to the glitch app URL every 25 minutes to prevent the app from sleeping.
 # ARG of self-ping
-url = "https://unblocknet.glitch.me"
+url = "https://***.glitch.me"
 import os
 import logging
 try:
