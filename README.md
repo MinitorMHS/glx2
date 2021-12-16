@@ -3,4 +3,4 @@ Deploy v2ray on glitch.
 
 Official: https://glitch.com/
 
-在glitch中选择 New Project ，选择import from github，输入该项目地址:https://github.com/ALLOC20/v2ray-glitch
+Select "New Project" in Glitch, click "import from github", and enter the URL of this project :https://github.com/ALLOC20/v2ray-glitch
