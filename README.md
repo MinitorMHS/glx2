@@ -22,20 +22,44 @@
 
 必要调整: 改应用名称 -> 生成UUID并填入代码中 -> 是否保持唤醒 -> 刷新
 
-1.改应用名称
+1. 改应用名称
 
 <img width="800" alt="4" src="img/4.png">
 
-2.生成UUID并填入代码中
+2. 生成UUID并填入代码中
 
-前往地址: "https://www.uuidgenerator.net", 生成一个UUID
+  2.1 前往地址: "https://www.uuidgenerator.net", 生成一个UUID
 
-3.是否保持唤醒
+  <img width="800" alt="5" src="img/5.png">
+
+  2.2 更改下图中箭头指示部分
+
+  <img width="800" alt="6" src="img/6.png">
+
+  2.3 更改self-ping.py中的url部分，将xxx改为(1.)步骤中设置的应用名称
+  
+  <img width="800" alt="7" src="img/7.png">
+
+3.是否保持唤醒(建议关闭,浪费时长)
+
+取消build.sh中第二行注释为保持唤醒
+
+<img width="800" alt="8" src="img/8.png">
 
 4.刷新
 
-# Deploy to Glitch  
+Tool -> Terminal -> 输入“refresh”回车
+
+打开网址显示“Bad Request”表示部署成功
+
+# Readme in English  
 
 Official: https://glitch.com/  
 
-How to Install: New Project -> Import form Github -> paste "https://github.com/qkqpttgf/OneManager-php", after done, Show -> In a New Window.  
+How to Install: New Project -> Import form Github -> paste "https://github.com/ALLOC20/v2ray-glitch"
+
+TODO...
+
+# 特别感谢 ：
+
+* [bclswl0827](https://github.com/bclswl0827/v2ray-heroku)
