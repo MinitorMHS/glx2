@@ -50,6 +50,8 @@
 
 Tool -> Terminal -> 输入“refresh”回车
 
+<img width="800" alt="9" src="img/9.png">
+
 打开网址显示“Bad Request”表示部署成功
 
 # Readme in English  
@@ -62,4 +64,5 @@ TODO...
 
 # 特别感谢 ：
 
+* [v2fly](https://github.com/v2fly/v2ray-core)
 * [bclswl0827](https://github.com/bclswl0827/v2ray-heroku)
