@@ -1,4 +1,7 @@
-#unzip命令被取消，无法自动更新，需要手动更新
+#防止休眠命令，取消下一行代码的注释生效
+#python3 /app/self-ping.py &
+
+#启动自动更新内核导致启动缓慢，因此取消自动更新，需要手动更新内核
 
 #define folders
 CONFIG="/app/etc/v2ray"
