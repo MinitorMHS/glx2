@@ -1,2 +1,5 @@
 # v2ray-glitch
-deploy v2ray on glitch
+
+在Glitch中部署v2ray服务
+
+请勿重度使用！！！
