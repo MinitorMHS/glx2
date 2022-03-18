@@ -58,9 +58,21 @@ Tool -> Terminal -> 输入“refresh”回车
 
 打开网址显示“Bad Request”表示部署成功
 
-# 客户端配置(Shadowrocket)
+# 客户端配置
+
+### 1.Shadowrocket
 
 <img width="500" alt="10" src="img/10.png">
+
+### 2.V2rayNG
+
+<img width="500" alt="11" src="img/11.png">
+
+### 3.Clash
+
+在proxies字段下填入以下内容，注意缩进
+
+<img width="500" alt="12" src="img/12.png">
 
 # Readme in English  
 
