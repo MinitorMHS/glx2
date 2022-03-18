@@ -16,7 +16,7 @@ cat << EOF > ${CONFIG}/config.json
         "settings": {
             "clients": [{
                 "id": "****",
-                "alterId": 64
+                "alterId": 0
             }]
         },
         "streamSettings": {
